@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/valentine/static/css/main.07e8c0e7.css",
-    "main.js": "/valentine/static/js/main.cb21459c.js",
+    "main.js": "/valentine/static/js/main.856c3348.js",
     "static/js/488.42ab098a.chunk.js": "/valentine/static/js/488.42ab098a.chunk.js",
     "static/media/bad4.gif": "/valentine/static/media/bad4.3d9e3c20efa40787fb44.gif",
     "static/media/love6.gif": "/valentine/static/media/love6.00d2fbaef800ce5866e8.gif",
     "static/media/bad5.gif": "/valentine/static/media/bad5.cd494e8ebb6f83575089.gif",
-    "static/media/letterConText.png": "/valentine/static/media/letterConText.685899b1f0659c8740e7.png",
+    "static/media/letterConText2.png": "/valentine/static/media/letterConText2.7f21e7f6f6a474472034.png",
     "static/media/love2.gif": "/valentine/static/media/love2.2d8020492e18e5ba5998.gif",
     "static/media/love7.gif": "/valentine/static/media/love7.ff01c99cab4974c22999.gif",
     "static/media/love1.gif": "/valentine/static/media/love1.934f9f58f318081804f8.gif",
@@ -19,11 +19,11 @@
     "static/media/logo.svg": "/valentine/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/valentine/index.html",
     "main.07e8c0e7.css.map": "/valentine/static/css/main.07e8c0e7.css.map",
-    "main.cb21459c.js.map": "/valentine/static/js/main.cb21459c.js.map",
+    "main.856c3348.js.map": "/valentine/static/js/main.856c3348.js.map",
     "488.42ab098a.chunk.js.map": "/valentine/static/js/488.42ab098a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07e8c0e7.css",
-    "static/js/main.cb21459c.js"
+    "static/js/main.856c3348.js"
   ]
 }
