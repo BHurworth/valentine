@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/valentine/static/css/main.93ef00dd.css",
-    "main.js": "/valentine/static/js/main.da2d7c95.js",
+    "main.css": "/valentine/static/css/main.07e8c0e7.css",
+    "main.js": "/valentine/static/js/main.cb21459c.js",
     "static/js/488.42ab098a.chunk.js": "/valentine/static/js/488.42ab098a.chunk.js",
     "static/media/bad4.gif": "/valentine/static/media/bad4.3d9e3c20efa40787fb44.gif",
     "static/media/love6.gif": "/valentine/static/media/love6.00d2fbaef800ce5866e8.gif",
     "static/media/bad5.gif": "/valentine/static/media/bad5.cd494e8ebb6f83575089.gif",
+    "static/media/letterConText.png": "/valentine/static/media/letterConText.685899b1f0659c8740e7.png",
     "static/media/love2.gif": "/valentine/static/media/love2.2d8020492e18e5ba5998.gif",
+    "static/media/love7.gif": "/valentine/static/media/love7.ff01c99cab4974c22999.gif",
     "static/media/love1.gif": "/valentine/static/media/love1.934f9f58f318081804f8.gif",
     "static/media/bad1.gif": "/valentine/static/media/bad1.54b24ca614d9439d2577.gif",
     "static/media/GoodGirl.gif": "/valentine/static/media/GoodGirl.a01ac688b719bb2892c9.gif",
     "static/media/bad2.gif": "/valentine/static/media/bad2.43c9732a46b2f3522046.gif",
     "static/media/love3.gif": "/valentine/static/media/love3.de941fc7d0ab18407c44.gif",
     "static/media/love5.gif": "/valentine/static/media/love5.4722fafceefbfa19fdb8.gif",
-    "static/media/love4.gif": "/valentine/static/media/love4.64083c4b66ef139c15a3.gif",
     "static/media/bad3.gif": "/valentine/static/media/bad3.e96b4f70c514ef1115ec.gif",
     "static/media/logo.svg": "/valentine/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/valentine/index.html",
-    "main.93ef00dd.css.map": "/valentine/static/css/main.93ef00dd.css.map",
-    "main.da2d7c95.js.map": "/valentine/static/js/main.da2d7c95.js.map",
+    "main.07e8c0e7.css.map": "/valentine/static/css/main.07e8c0e7.css.map",
+    "main.cb21459c.js.map": "/valentine/static/js/main.cb21459c.js.map",
     "488.42ab098a.chunk.js.map": "/valentine/static/js/488.42ab098a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93ef00dd.css",
-    "static/js/main.da2d7c95.js"
+    "static/css/main.07e8c0e7.css",
+    "static/js/main.cb21459c.js"
   ]
 }
